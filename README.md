@@ -14,7 +14,7 @@
 ```
 
 ## Frontned (Next.js)
-- gymrats-clone
+- Nome do Projeto: gymrats-clone-frontend
 ```
 /app
 	/dashboard
